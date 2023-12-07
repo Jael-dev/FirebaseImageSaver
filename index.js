@@ -1,6 +1,4 @@
-// functions/index.js
-const functions = require('firebase-functions');
-const admin = require('firebase-admin');
+
 const express = require('express');
 const multer = require('multer');
 const path = require('path');
